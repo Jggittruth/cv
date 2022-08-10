@@ -1,0 +1,42 @@
+html {
+  font-size: 17px
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+  border: 2px solid black
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #D6EEEE;
+}
+
+body {
+  background-color: snow;
+}
+
+h1, h3 {
+  color: blue;
+}
+
+p {
+  font-family: Arial;
+  text-align: justify;
+  line-height: 1.4;
+  margin: 2%;
+}
+
+hr {
+  background-color: white;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 7px;
+  height: 0;
+  width: 10%
+}
