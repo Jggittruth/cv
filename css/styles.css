@@ -17,6 +17,8 @@ html {
   border-width: 0;
   border: 3px solid blue;
   text-align: center;
+  background-color: lightblue
+  padding: 2rem
 }
 
 .Second_table {
