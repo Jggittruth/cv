@@ -78,6 +78,25 @@ html {
   text-decoration: none;
 }
 
+
+.btn2 {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  text-shadow: 1px 1px 2px #302d30;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 16px;
+  background: black;
+  padding: 10px 10px 10px 10px;
+  text-decoration: none;
+  margin: 32px
+}
+
+.btn2:hover {
+  background: #a61054;
+  text-decoration: none;
+}
 .CBS {
   font-size: 25px;
   vertical-align: middle;
