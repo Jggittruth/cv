@@ -113,6 +113,7 @@ table {
 
 td {
   vertical-align: top;
+  line-height: 2.0;
 }
 
 th {
@@ -153,4 +154,7 @@ hr {
   border-width: 10px;
   height: 0;
   width: 10%
+}
+tbody{
+  line-height: 2.0;
 }
